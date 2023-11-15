@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the COVID-19 Dashboard"
-author: "Benedict Neo"
-date: "31/1/2021"
+author: "Kaustubhya Shukla"
+date: "15/11/2023"
 output:
   slidy_presentation: default
   html_document:
@@ -23,8 +23,8 @@ widgets: bootstrap
 
 This presentation is done for the Coursera course Developing Data Products. The final assignment was to create a Shiny app and a reproducible pitch
 
-Access the shiny app [here](https://benthecoder.shinyapps.io/COVID-19_Dashboard/)
-
+Access the shiny app [here](https://kaustubhya-shukla.shinyapps.io/Covid-19-App/)
+Access the Github repo [here](https://github.com/kaustubhya/DDP-Week-4/tree/main)
 This will be going into how the shiny app was formed, and where the data comes from. 
 
 
